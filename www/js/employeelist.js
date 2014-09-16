@@ -1,4 +1,4 @@
-var serviceURL = "http://poteitostudio.com/services/";
+var serviceURL = "http://http://tallerinteractivo.com.ar/services/";
 
 var employees;
 
